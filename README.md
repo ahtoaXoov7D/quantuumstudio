@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+### Heyho, everyone!!! My names is quantuumstudio and I host this youtube channel
 <div align="center">
   <a href="https://github.com/quantuumstudio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quantuumstudio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
